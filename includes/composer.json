@@ -1,0 +1,14 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.1",
+        "gasparesganga/php-shapefile": "^2.2",
+        "alcaeus/mongo-php-adapter": "^1.0",
+        "phpoffice/phpexcel": "^1.8",
+        "phpoffice/phpword": "v0.15.*",
+        "mjaschen/phpgeo": "^2",
+        "phpmailer/phpmailer": "^6.0",
+        "altmetric/mongo-session-handler": "^2.1",
+        "phpoffice/phpspreadsheet": "^1.4",
+        "facebook/graph-sdk": "^5.7"
+    }
+}
